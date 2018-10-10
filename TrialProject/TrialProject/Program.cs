@@ -14,6 +14,7 @@ namespace TrialProject
             Console.WriteLine("Commit trial!");
 			Console.WriteLine("Hello new trial!");
 			Console.WriteLine("4");
+			Console.WriteLine("5");
             Console.ReadLine();
         }
     }
