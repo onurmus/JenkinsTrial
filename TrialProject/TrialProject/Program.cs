@@ -11,6 +11,7 @@ namespace TrialProject
         static void Main(string[] args)
         {
             Console.WriteLine("Hello trial!");
+            Console.WriteLine("Commit trial!");
             Console.ReadLine();
         }
     }
