@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,9 @@ namespace TrialProject
 			Console.WriteLine("Hello new trial!");
 			Console.WriteLine("4");
 			Console.WriteLine("5");
+
+            string json = JsonConvert.SerializeObject("here is a library trial");
+            Console.WriteLine(json);
             Console.ReadLine();
         }
     }
