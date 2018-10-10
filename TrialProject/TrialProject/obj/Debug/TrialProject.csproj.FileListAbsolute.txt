@@ -1,5 +1,0 @@
-c:\users\onur\documents\visual studio 2013\Projects\TrialProject\TrialProject\bin\Debug\TrialProject.exe.config
-c:\users\onur\documents\visual studio 2013\Projects\TrialProject\TrialProject\bin\Debug\TrialProject.exe
-c:\users\onur\documents\visual studio 2013\Projects\TrialProject\TrialProject\bin\Debug\TrialProject.pdb
-c:\users\onur\documents\visual studio 2013\Projects\TrialProject\TrialProject\obj\Debug\TrialProject.exe
-c:\users\onur\documents\visual studio 2013\Projects\TrialProject\TrialProject\obj\Debug\TrialProject.pdb
