@@ -14,7 +14,6 @@ namespace TrialProject
             Console.WriteLine("Hello trial!");
             Console.WriteLine("Commit trial!");
 			Console.WriteLine("Hello new trial!");
-			Console.WriteLine("4");
 			Console.WriteLine("5");
 
             string json = JsonConvert.SerializeObject("here is a library trial");
