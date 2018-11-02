@@ -18,7 +18,7 @@ namespace TrialProject
 			Console.WriteLine("5");
             Console.WriteLine("ETL geliştirmeleri 1. step");
             Console.WriteLine("Jira-Jenkins integration test");
-            Console.WriteLine("Jenkin-git new integration");
+            Console.WriteLine("Jenkin-git new integration2");
             
 
             string json = JsonConvert.SerializeObject("here is a library trial");
